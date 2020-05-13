@@ -1,6 +1,7 @@
-# direct_integration_with_google_pay_Tez-india-
+# Direct Integration with Google pay Tez India
 
-    This is an open source project to create boiler plate code set up for Google (Tez) payment getway applications using Express.js.
+    This is an open source project to create boiler plate code set up for Google (Tez) payment getway applications 
+    using Express.js.
 
 ## What is this repository for?
 
